@@ -1,0 +1,26 @@
+body{
+    margin: 50px;
+    background-color: rgba(19, 168, 168, 0.664);
+    background-image: url("images/default-adapta-lockscreen.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+h1{
+    color: orangered;
+}
+b, h4{
+    color: orangered;
+}
+p{
+    color: azure;
+    font-size: large;
+}
+.intro{
+    margin: 30px;
+    /* background-color: aquamarine; */
+    color: aliceblue;
+}
+
+#content{
+    margin: 60px;
+}
